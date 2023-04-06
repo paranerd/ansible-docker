@@ -1,1 +1,1 @@
-# ansible-docker
+# Ansible Module: Docker
